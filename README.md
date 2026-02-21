@@ -1,4 +1,4 @@
-## Generic Workflow Template for systemPipeR WMS
+## Cheminformatics Drug Similarity Template for systemPipeR WMS
 
 <p align="right">
   <a href="https://systempipe.org/sprwf-cheminfo/SPcheminfo.html">
